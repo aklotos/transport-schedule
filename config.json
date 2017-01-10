@@ -1,0 +1,21 @@
+{
+  "port": 8080,
+  "api": {
+    "headers": {
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4,be;q=0.2,lt;q=0.2",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/M4B30Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36",
+      "Cookie": "07ee7cd316715ec475ab8ed2057fa472=ru-RU; ASP.NET_SessionId=bm2k3xiiinhvbm0fupkp1bin; __RequestVerificationToken_L2xvb2tvdXRfeWFyZA2=-a6Tmjgn7ktKIDriqHLF4dT_EKozHxgrDHyakzp0tucAReliYGeV9Dcwqu4lkPPOIUc9sWv0LlxU0G9n6hTMs7GLsA08Fz82yyxHuvsE2pA1; .AspNet.ApplicationCookie=CiMXp9SGDqRLlji1BMSb3PIycVza6F-rrIZdb7YcS97Axqm6m_acoL9yDwniRWkcozOshiQbdEYep-9Tt4IaQPRBXvIfzL6CvWa0kMVjpfKYSDEEDNA2Na-x9sm7G8GuOTK16cfo1UPO4RDmdQmTGVSbRvO3AjbL-XxrLaYKwwEc8MwvpAPKNar4eTh5OdstctNjI37OXn69KEZY8E-GjmdcR5rIOc_gYv_hAxetAnRXVbXVE58LDTIyR3cRuHHzq_Y5_xm22qHdddiOCJlnRdR7pkek2mAO2kHXbKfKhB-MTpQH9sjK6rNn1U79l7V5Xq3ASH2Nz7DmeDe8aFvJn4uJiy6HuaPo6uX8KwbzHx819P2DHJlE_Mws4TqZ395eV9DcwoV6CXTThSz6ce9Hglbao-gXLF-qUDZ7MmVB4aUkR2gU3rLQAZhPGmz6z9NxWx6wa3e83cwZ8goJ-eAdFIzCfmMBqmM8CFXOVEWu04cyEnWnUObaVl2fQA-vLest",
+      "Host": "www.minsktrans.by",
+      "Origin": "http://www.minsktrans.by",
+      "Referer": "http://www.minsktrans.by/lookout_yard/Home/Index/minsk",
+      "X-Requested-With": "XMLHttpRequest"
+    },
+    "url": {
+      "home": "http://www.minsktrans.by/lookout_yard",
+      "schedule": "http://www.minsktrans.by/lookout_yard/Data/Scoreboard"
+    }
+  }
+}
