@@ -11,4 +11,4 @@ server.get('/ping', (req, res, next) => {
     res.send("I'm working!");
 });
 
-server.listen(config.port);
+server.listen(process.env.PORT || config.port);
